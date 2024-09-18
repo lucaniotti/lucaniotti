@@ -19,7 +19,7 @@
           <ul>
            <li> <a href="mailto:lucaniotti@gmail.com">Email: lucaniotti@gmail.com</a> </li>
            <li> <a href="https://www.linkedin.com/in/lucaniotti/" target="_blank">LinkedIn</a> </li>
-          <li>  <a href="http://instagram.com/lucaniott" target="_blank">Instagram</a> </li>
+          <li>  <a href="http://www.instagram.com/lucaniott" target="_blank">Instagram</a> </li>
             </ul>
         </div>
         <br>
